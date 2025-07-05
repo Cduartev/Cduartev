@@ -27,4 +27,4 @@ cayoduartevidal@gmail.com
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 
 ## 📈 GitHub Stats
-[![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dark)](https://github.com/seuusername)
+[![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cduartev&show_icons=true&theme=dark)](https://github.com/Cduartev)
