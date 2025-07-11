@@ -18,7 +18,7 @@ Building performant REST APIs and implementing shadcn/ui component library to ac
 
 📫 **Connect:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seuperfil)  
-cayoduartevidal@gmail.com
+cayooduartevidal@gmail.com
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
