@@ -10,8 +10,8 @@ Building scalable web applications with:
 Building performant REST APIs and implementing shadcn/ui component library to accelerate UI development. Passionate about clean architecture and optimizing PostgreSQL queries.
 
 📂 **Featured projects:**  
-- [Project 1 Name](https://meetplay.com.br/) (Java/Spring backend)  
-- [Project 2 Name](https://integridade.vercel.app/) (Next.js/shadcn UI)  
+- [Meetplay](https://meetplay.com.br/) (Java/Spring backend)  
+- [Landing page](https://integridade.vercel.app/) (Next.js/shadcn UI)  
 - [Open Source Contribution](https://github.com/Cduartev)
 
 🌱 **Learning:** Advanced cloud patterns • Microservices • Performance optimization
