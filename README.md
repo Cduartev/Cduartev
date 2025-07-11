@@ -10,15 +10,16 @@ Building scalable web applications with:
 Building performant REST APIs and implementing shadcn/ui component library to accelerate UI development. Passionate about clean architecture and optimizing PostgreSQL queries.
 
 📂 **Featured projects:**  
-- [Project 1 Name] (Java/Spring backend)
-- [Project 2 Name] (Next.js/shadcn UI)
-- [Open Source Contribution]
+- [Project 1 Name](https://meetplay.com.br/) (Java/Spring backend)  
+- [Project 2 Name](https://integridade.vercel.app/) (Next.js/shadcn UI)  
+- [Open Source Contribution](https://github.com/Cduartev)
 
 🌱 **Learning:** Advanced cloud patterns • Microservices • Performance optimization
 
 📫 **Connect:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)[https://www.linkedin.com/in/cayo-duarte-vidal-2a9456372/]
-cayooduartevidal@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cayo-duarte-vidal-2a9456372/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/Cduartev)  
+📧 cayooduartevidal@gmail.com
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
@@ -27,4 +28,4 @@ cayooduartevidal@gmail.com
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 
 ## 📈 GitHub Stats
-[![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cduartev&show_icons=true&theme=dark)](https://github.com/Cduartev)
+[![Cduartev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cduartev&show_icons=true&theme=dark)](https://github.com/Cduartev)
