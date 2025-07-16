@@ -4,14 +4,14 @@ Building scalable web applications with:
 - **Backend:** Java MVC • Spring Boot • PostgreSQL
 - **Frontend:** Next.js • React • TypeScript
 - **UI Toolkit:** shadcn/ui for component-driven development
-- **Infra:** AWS • Docker • CI/CD pipelines
+- **Infra:** Docker • CI/CD pipelines
 
 🔧 **Current focus:**  
 Building performant REST APIs and implementing shadcn/ui component library to accelerate UI development. Passionate about clean architecture and optimizing PostgreSQL queries.
 
 📂 **Featured projects:**  
 - [Meetplay](https://meetplay.com.br/) (Java/Spring backend)  
-- [Landing page](https://integridade.vercel.app/) (Next.js/shadcn UI)  
+- [Landing page - Projeto Para Uma Empresa de Cursos](https://integridade.vercel.app/) (Next.js/shadcn UI)  
 - [Open Source Contribution](https://github.com/Cduartev)
 
 🌱 **Learning:** Advanced cloud patterns • Microservices • Performance optimization
