@@ -11,7 +11,7 @@ Building performant REST APIs and implementing shadcn/ui component library to ac
 
 📂 **Featured projects:**  
 - [Meetplay](https://meetplay.com.br/) (Java/Spring backend)  
-- [Landing page - Projeto Para Uma Empresa de Cursos](https://integridade.vercel.app/) (Next.js/shadcn UI)  
+- [Landing page - Projeto Para Uma Empresa de Cursos](https://integridade.vercel.app/) (Next.js/typescript/shadcn UI)  
 - [Open Source Contribution](https://github.com/Cduartev)
 
 🌱 **Learning:** Advanced cloud patterns • Microservices • Performance optimization
