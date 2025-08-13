@@ -17,7 +17,7 @@ Building performant REST APIs and implementing shadcn/ui component library to ac
 🌱 **Learning:** Advanced cloud patterns • Microservices • Performance optimization
 
 📫 **Connect:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cayo-duarte-vidal-2a9456372/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cayo-duarte-2a9456372/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/Cduartev)  
 📧 cayoduartevidal@gmail.com
 
