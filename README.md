@@ -12,7 +12,7 @@ Building performant REST APIs and implementing shadcn/ui component library to ac
 📂 **Featured projects:**  
 - [Meetplay](https://meetplay.com.br/) (fullstack react/shadcn/next/typescript/Java/Spring backend)  
 - [Landing page - Projeto Para Uma Empresa de Cursos](https://integridade.vercel.app/) (Next.js/typescript/shadcn UI)  
-- [Open Source Contribution](https://github.com/Cduartev)
+- [Projeto Fulsltack Portifolio - Sistema de agendamentos de barbearia](https://barberpro-eight.vercel.app/) (fullstack react/shadcn/next/typescript/Java/Spring backend)  
 
 🌱 **Learning:** Advanced cloud patterns • Microservices • Performance optimization
 
