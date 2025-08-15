@@ -1,10 +1,13 @@
 ### 💻 Fullstack Developer | Java & Next.js Specialist
-**@ Meetplay**  
 Building scalable web applications with:
 - **Backend:** Java MVC • Spring Boot • PostgreSQL
 - **Frontend:** Next.js • React • TypeScript
 - **UI Toolkit:** shadcn/ui for component-driven development
 - **Infra:** Docker • CI/CD pipelines
+
+  
+## 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cduartev&layout=compact&theme=dark)](https://github.com/Cduartev)
 
 🔧 **Current focus:**  
 Building performant REST APIs and implementing shadcn/ui component library to accelerate UI development. Passionate about clean architecture and optimizing PostgreSQL queries.
