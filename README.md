@@ -53,9 +53,9 @@ Construindo aplicações web escaláveis e de fácil manutenção, com foco fort
 
 ## 📫 Entre em Contato
 
-* 💼 LinkedIn: [Linkedin](www.linkedin.com/in/cayoduartevidal)
-* 💻 GitHub: [GitHub](https://github.com/Cduartev)
-* 📧 Email: [Gmail](mailto:cayoduartevidal@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/cayoduartevidal](www.linkedin.com/in/cayoduartevidal)
+* 💻 GitHub: [https://github.com/Cduartev](https://github.com/Cduartev)
+* 📧 Email: [mailto:cayoduartevidal@gmail.com](mailto:cayoduartevidal@gmail.com)
 
 ---
 
