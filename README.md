@@ -68,7 +68,3 @@ Construindo aplicações web escaláveis e de fácil manutenção, com foco fort
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql)
 
 ---
-
-## 📈 Estatísticas do GitHub
-
-[![Cduartev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cduartev\&show_icons=true\&theme=dark)](https://github.com/Cduartev)
