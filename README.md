@@ -22,12 +22,6 @@ Construindo aplicações web escaláveis e de fácil manutenção, com foco fort
 
 ---
 
-## 📊 Linguagens Mais Utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cduartev\&layout=compact\&theme=dark)](https://github.com/Cduartev)
-
----
-
 ## 🔧 Foco Atual
 
 * Desenvolvimento de **APIs REST performáticas com Java + Spring Boot**
