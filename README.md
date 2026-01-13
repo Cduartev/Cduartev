@@ -1,61 +1,61 @@
 ### 💻 Desenvolvedor Fullstack | **Java & React**
 
-Construindo aplicações web escaláveis e de fácil manutenção, com foco forte em **Java (Backend)** e **React (Frontend)**.
+Desenvolvimento de aplicações web **escaláveis, performáticas e bem arquitetadas**, com foco principal em **Java no backend** e **React no frontend**.
 
 ---
 
 ## 🚀 Foco Técnico
 
-### 🧠 Backend (Foco Principal)
+### 🧠 Backend (Principal)
 
 * **Java** (MVC)
-* **Spring Boot** (APIs REST)
-* **PostgreSQL** (modelagem, queries e performance)
-* Clean Architecture e princípios SOLID
+* **Spring Boot** para APIs REST
+* **PostgreSQL** (modelagem, queries e otimização de performance)
+* **Clean Architecture**, SOLID e boas práticas
 
-### 🎨 Frontend (Foco Principal)
+### 🎨 Frontend (Principal)
 
 * **React**
 * **TypeScript**
-* **shadcn/ui** (UI baseada em componentes)
-* Padrões modernos de componentes e gerenciamento de estado
+* **shadcn/ui** (desenvolvimento orientado a componentes)
+* Padrões modernos de componentização e gerenciamento de estado
 
 ---
 
-## 🔧 Foco Atual
+## 🔧 Atuação Atual
 
-* Desenvolvimento de **APIs REST performáticas com Java + Spring Boot**
-* Construção de **interfaces escaláveis em React** com componentes reutilizáveis
-* Aplicação de **Clean Architecture** do backend ao frontend
-* Otimização de **queries e índices no PostgreSQL**
+* Criação de **APIs REST performáticas** com Java e Spring Boot
+* Desenvolvimento de **interfaces escaláveis em React**, com foco em reutilização e manutenção
+* Aplicação consistente de **Clean Architecture** entre backend e frontend
+* **Otimização de consultas e índices no PostgreSQL**
 
 ---
 
 ## 📂 Projetos em Destaque
 
 * **Meetplay**
-  Aplicação fullstack utilizando **React + TypeScript (shadcn/ui)** e **Java + Spring Boot**
+  Aplicação fullstack com **React + TypeScript (shadcn/ui)** no frontend e **Java + Spring Boot** no backend
   🔗 [https://meetplay.com.br/](https://meetplay.com.br/)
 
 * **Landing Page – Projeto para Empresa de Cursos**
-  Projeto focado em frontend com **React, TypeScript e shadcn/ui**
+  Projeto frontend utilizando **React, TypeScript e shadcn/ui**, com foco em performance e UI moderna
   🔗 [https://integridade.vercel.app/](https://integridade.vercel.app/)
 
 ---
 
-## 🌱 Atualmente Estudando
+## 🌱 Em Aprendizado Contínuo
 
-* Padrões avançados em **Java & Spring Boot**
+* Padrões avançados com **Java e Spring Boot**
 * Escalabilidade e performance de APIs
-* Arquitetura de aplicações frontend em **React**
+* Arquitetura e organização de aplicações **React**
 
 ---
 
-## 📫 Entre em Contato
+## 📫 Contato
 
-* 💼 LinkedIn: [www.linkedin.com/in/cayoduartevidal](www.linkedin.com/in/cayoduartevidal)
+* 💼 LinkedIn: [https://www.linkedin.com/in/cayoduartevidal](https://www.linkedin.com/in/cayoduartevidal)
 * 💻 GitHub: [https://github.com/Cduartev](https://github.com/Cduartev)
-* 📧 Email: [mailto:cayoduartevidal@gmail.com](mailto:cayoduartevidal@gmail.com)
+* 📧 Email: [cayoduartevidal@gmail.com](mailto:cayoduartevidal@gmail.com)
 
 ---
 
