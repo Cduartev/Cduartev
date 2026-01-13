@@ -1,4 +1,4 @@
-### 💻 Desenvolvedor Fullstack | **Especialista em Java & React**
+### 💻 Desenvolvedor Fullstack | **Java & React**
 
 Construindo aplicações web escaláveis e de fácil manutenção, com foco forte em **Java (Backend)** e **React (Frontend)**.
 
