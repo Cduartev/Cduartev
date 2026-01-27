@@ -60,6 +60,11 @@ Projeto frontend utilizando **React, TypeScript e shadcn/ui**, com foco em perfo
 
 🔗 https://integridade.vercel.app/
 
+
+### 🔹 LivePix– Projeto de portifolio com SSE java, spring boot e react
+
+🔗 https://github.com/Cduartev/livepix-front
+🔗 https://github.com/Cduartev/livepix-backend
 ---
 
 ## 🌱 Em Aprendizado Contínuo
