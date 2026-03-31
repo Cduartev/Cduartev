@@ -1,87 +1,148 @@
-### 💻 Desenvolvedor Fullstack | **Java & React**
+<h1 align="center">Cayo Duarte Vidal</h1>
+<h3 align="center">Desenvolvedor Full Stack com foco em Backend Java</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  Desenvolvimento de aplicações web escaláveis, performáticas e bem estruturadas, com foco principal em <strong>Java no backend</strong> e atuação full stack com <strong>React, Next.js e TypeScript</strong>.
 </p>
-Desenvolvimento de aplicações web **escaláveis, performáticas e bem arquitetadas**, com foco principal em **Java no backend** e **React no frontend**.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,postgres,docker,aws,git,linux&perline=5"
+      alt="Tecnologias principais"
+    />
+  </a>
+</p>
 
 ---
 
-## 🚀 Foco Técnico
+## 👨‍💻 Sobre mim
 
-### 🧠 Backend (Principal)
+Sou desenvolvedor de software com foco principal em backend, atuando no desenvolvimento e evolução de aplicações web com **Java, Spring Boot, PostgreSQL e Docker**.
 
-- **Java** (MVC)
-- **Spring Boot** para APIs REST
-- **PostgreSQL**
-  - Modelagem de dados
-  - Queries otimizadas
-  - Índices e performance
-- **Clean Architecture**
-- Princípios **SOLID** e boas práticas
+Tenho experiência na construção de **APIs REST**, modelagem de regras de negócio, integração entre sistemas, organização de serviços e melhoria contínua da base de código com foco em **escalabilidade, manutenção e qualidade técnica**.
+
+Também atuo no ecossistema full stack com **React, Next.js e TypeScript**, contribuindo na integração com APIs, construção de interfaces responsivas e entrega de soluções completas.
 
 ---
 
-### 🎨 Frontend (Principal)
+## 🚀 Stack principal
 
-- **React**
-- **TypeScript**
-- **shadcn/ui**
-- Desenvolvimento orientado a componentes
-- Padrões modernos de componentização e gerenciamento de estado
+### Backend
+- Java
+- Spring Boot
+- APIs REST
+- JPA / Hibernate
+- Integração de sistemas
+- Arquitetura de APIs
+- Regras de negócio
+
+### Banco de dados
+- PostgreSQL
+- SQL
+- Modelagem de dados
+- Otimização de consultas
+- Performance e índices
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+
+### Ferramentas e ambiente
+- Git
+- Docker
+- AWS
+- Linux
+- Scrum
+- Kanban
 
 ---
 
-## 🔧 Atuação Atual
+## 💼 Experiência
 
-- Criação de **APIs REST performáticas** com Java e Spring Boot
-- Desenvolvimento de **interfaces escaláveis em React**
-- Aplicação consistente de **Clean Architecture** no backend e frontend
-- **Otimização de consultas e performance no PostgreSQL**
-- Código limpo, organizado e de fácil manutenção
+### **Engenheiro de Software Java Full Stack**  
+**PineCode Tecnologia** · Remoto  
+**fev de 2024 - mar de 2026**
+
+Atuação no desenvolvimento do **MeetPlay**, plataforma voltada à conexão de pessoas por meio do esporte e à gestão de espaços esportivos.
+
+#### Principais responsabilidades:
+- Desenvolvimento backend com **Java e Spring Boot**
+- Construção e evolução de **APIs REST**
+- Desenvolvimento frontend com **React, Next.js e TypeScript**
+- Integração entre frontend e backend
+- Autenticação segura com **JWT e NextAuth**
+- Comunicação em tempo real com **WebSocket**
+- Trabalho com **PostgreSQL** e **DB2**
+- Uso de **Docker** na infraestrutura e padronização de ambiente
+- Apoio na criação de dashboards e métricas para tomada de decisão
 
 ---
 
-## 📂 Projetos em Destaque
+## 📌 Projetos em destaque
 
-### 🔹 Meetplay
-Aplicação fullstack com **React + TypeScript (shadcn/ui)** no frontend e **Java + Spring Boot** no backend.  
-Projeto focado em escalabilidade, performance e boas práticas de arquitetura.
+### 🔹 MeetPlay
+Plataforma web para gerenciamento e agendamento de quadras e espaços esportivos, permitindo consulta de disponibilidade, reservas e gestão de horários.
 
-🔗 https://meetplay.com.br/
+**Tecnologias utilizadas:**
+- Java
+- Spring Boot
+- React
+- Next.js
+- TypeScript
+- PostgreSQL
+- Docker
+- OAuth 2.0
+
+🔗 **Projeto:** https://meetplay.com.br/
 
 ---
 
-### 🔹 Landing Page – Projeto para Empresa de Cursos
-Projeto frontend utilizando **React, TypeScript e shadcn/ui**, com foco em performance, UI moderna e responsividade.
+### 🔹 LivePix
+Plataforma de pagamentos Pix em tempo real voltada para lives, com integração para exibição automática de alertas em transmissões via OBS.
 
-🔗 https://integridade.vercel.app/
+**Destaques do projeto:**
+- APIs REST com **Java e Spring Boot**
+- Integração com **Mercado Pago**
+- Webhooks para confirmação automática de pagamentos
+- Comunicação em tempo real com **SSE (Server-Sent Events)**
+- Frontend com **Next.js e TypeScript**
+- Persistência com **PostgreSQL**
 
+🔗 **Frontend:** https://github.com/Cduartev/livepix-front  
+🔗 **Backend:** https://github.com/Cduartev/livepix-backend
 
-### 🔹 LivePix– Projeto de portifolio com SSE java, spring boot e react
-
-🔗 https://github.com/Cduartev/livepix-front
-
-
-🔗 https://github.com/Cduartev/livepix-backend
 ---
 
-## 🌱 Em Aprendizado Contínuo
+### 🔹 Integridade
+Landing page desenvolvida com foco em interface moderna, performance e responsividade.
 
-- Padrões avançados com **Java e Spring Boot**
-- Escalabilidade e performance de APIs REST
-- Arquitetura e organização de aplicações **React**
-- Boas práticas de código e arquitetura limpa
+**Tecnologias utilizadas:**
+- React
+- TypeScript
+
+🔗 **Projeto:** https://integridade.vercel.app/
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura de software
+- Design patterns
+- Boas práticas de desenvolvimento backend
+- Construção de APIs robustas com Java e Spring Boot
+- Escalabilidade e organização de aplicações full stack
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/cayoduartevidal
-- 💻 GitHub: https://github.com/Cduartev
-- 📧 Email: cayoduartevidal@gmail.com
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/cayoduartevidal" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/Cduartev" target="_blank">GitHub</a> •
+  <a href="mailto:cayoduartevidal@gmail.com">cayoduartevidal@gmail.com</a>
+</p>
